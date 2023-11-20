@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Karyn Huston
 - 👀 I’m interested in Backend technologies and machine learning
 - 🌱 I’m currently learning how to implement time effecient data structures into my projects
-- 💞️ I’m looking to collaborate on Pyhton and explore machine learning 
+- 💞️ I’m looking to collaborate on Pyhton and explore machine learning concepts
 - 📫 How to reach me ... [linkedin](https://www.linkedin.com/in/karyn-huston/)
 
 <!---
